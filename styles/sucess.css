@@ -1,0 +1,14 @@
+.success {
+    flex-direction: column;
+    align-items: center;
+    padding: 0 100px;
+}
+
+.success h1 {
+    text-align: center;
+    font-size: 40px;
+    line-height: 48;
+
+    height: 0;
+    overflow: 0;
+}
